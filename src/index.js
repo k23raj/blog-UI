@@ -5,4 +5,4 @@ import App from './App'
 //import FirstApp from './FirstApp' // redux testing
 
 
-ReactDOM.render(<FirstApp />, document.getElementById('root'))
+ReactDOM.render(<App />, document.getElementById('root'))

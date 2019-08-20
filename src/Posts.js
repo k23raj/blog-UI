@@ -8,7 +8,7 @@ import React from 'react'
             this.state = {
                 posts: [],
                 limit: 20,
-                incBy:20        }
+                incBy:20   }
             this.handleLoad = this.handleLoad.bind(this)
         }
 
